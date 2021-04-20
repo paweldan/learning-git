@@ -1,1 +1,1 @@
-node_modules/.bin/html-validate index.html
+npm run test:html
